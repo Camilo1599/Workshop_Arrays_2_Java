@@ -1,0 +1,24 @@
+Investigación 3: POO
+
+La Programación Orientada a Objetos (POO) es un paradigma de programación que se centra en el concepto de "objetos" y cómo interactúan entre sí para realizar tareas y resolver problemas.
+
+1. Clase:
+Una clase es una plantilla o un "molde" para crear objetos. Define las propiedades (atributos) y comportamientos (métodos) que los objetos de ese tipo tendrán.
+
+2. Objeto:
+Un objeto es una instancia específica de una clase. 
+
+3. Atributos:
+Los atributos son variables que representan las características o estados de un objeto. Cada objeto tiene su propia copia de los atributos definidos en la clase.
+
+4. Métodos:
+Los métodos son funciones o procedimientos que definen el comportamiento de un objeto. Pueden realizar acciones y manipular los datos de los atributos de la clase.
+
+5. Encapsulamiento:
+Es el concepto de agrupar datos (atributos) y métodos que operan sobre esos datos dentro de una misma unidad, es decir, dentro de una clase. El encapsulamiento ayuda a ocultar la implementación interna de los objetos y proteger los datos al restringir el acceso directo a ellos desde fuera de la clase.
+
+6. Herencia:
+La herencia es un mecanismo que permite que una clase (llamada subclase o clase derivada) herede atributos y métodos de otra clase (llamada superclase o clase base). Esto fomenta la reutilización de código y permite establecer relaciones entre clases.
+
+7. Polimorfismo:
+El polimorfismo es la capacidad de objetos de diferentes clases de responder al mismo mensaje (llamada a un método) de manera diferente. Permite tratar objetos de diferentes clases de manera uniforme.
