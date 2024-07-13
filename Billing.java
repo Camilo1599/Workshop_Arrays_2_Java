@@ -18,5 +18,6 @@ public class Billing {
         }
 
         System.out.println(bill);
+        scanner.close();
     }
 }
